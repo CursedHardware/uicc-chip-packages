@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "UICC")(type "KiCad")(uri "${KIPRJMOD}/UICC.pretty")(options "")(descr "UICC Chip Packaging"))
+)
